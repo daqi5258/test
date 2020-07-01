@@ -29,4 +29,9 @@ namespace test
             y = tmp;
         }
     }
+
+    class change
+    {
+
+    }
 }
